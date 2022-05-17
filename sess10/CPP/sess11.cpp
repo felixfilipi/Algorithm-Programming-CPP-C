@@ -159,6 +159,8 @@ int main(){
 
     }while(choice != 3);
     
+    deletejApp;
+
     return 0;
 }
 
