@@ -159,7 +159,7 @@ int main(){
 
     }while(choice != 3);
     
-    deletejApp;
+    delete App;
 
     return 0;
 }
