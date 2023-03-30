@@ -1,3 +1,0 @@
-/home/__elon123__/Downloads/C/sess3/CPP/build/CMakeFiles/rebuild_cache.dir
-/home/__elon123__/Downloads/C/sess3/CPP/build/CMakeFiles/edit_cache.dir
-/home/__elon123__/Downloads/C/sess3/CPP/build/CMakeFiles/sess3.dir
